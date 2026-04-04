@@ -69,7 +69,10 @@ motto       : "Automate first, manual never!"
 
 <p align="center">
   <!-- GitHub - animated via techstack-generator ✅ -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" title="GitHub Actions" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" title="GitHub" />
+  &nbsp;&nbsp;
+  <!-- GitHub Actions - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" title="GitHub Actions" />
   &nbsp;&nbsp;
   <!-- Git - skill-icons ✅ -->
   <img src="https://skillicons.dev/icons?i=git" width="65" height="65" title="Git" />
