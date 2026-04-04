@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:36BCF7&height=200&section=header&text=Hi%20there,%20I'm%20Ketul%20Patel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Azure%20Administrator%20%7C%20Cloud-Native%20Enthusiast&descAlignY=55&descSize=18" />
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Azure+Administrator+%F0%9F%94%A7;AZ-104+%7C+AZ-500+%7C+AZ-700+Certified+%F0%9F%8F%85;Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible+%F0%9F%9A%80;CI%2FCD+%7C+IaC+%7C+Cloud-Native+Solutions+%E2%9C%A8;Automate+Everything%2C+Manual+Never!+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Azure+Administrator;AZ-104+%7C+AZ-500+%7C+AZ-700+Certified+%F0%9F%8F%85;Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible;CI%2FCD+%7C+IaC+%7C+Cloud-Native+Solutions;Automate+Everything%2C+Manual+Never!" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Profile Views + Followers Badges -->
 <img src="https://komarev.com/ghpvc/?username=ketulnpatel&label=Profile+Views&color=0078D4&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/ketulnpatel?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0078D4" />
@@ -43,38 +40,62 @@ motto       : "Automate first, manual never!"
 ## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud & Infrastructure
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=azure,terraform,ansible&theme=dark" /></a>
+  <!-- AWS - animated via techstack-generator ✅ -->
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" title="AWS" />
+  &nbsp;&nbsp;
+  <!-- Azure - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" title="Azure" />
+  &nbsp;&nbsp;
+  <!-- Terraform - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=terraform" width="65" height="65" title="Terraform" />
+  &nbsp;&nbsp;
+  <!-- Ansible - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=ansible" width="65" height="65" title="Ansible" />
 </p>
 
 ### 🐳 Containers & Orchestration
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <!-- Docker - animated via techstack-generator ✅ -->
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" title="Docker" />
+  &nbsp;&nbsp;
+  <!-- Kubernetes - animated via techstack-generator ✅ -->
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" title="Kubernetes" />
 </p>
 
 ### ⚙️ CI/CD & Automation
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions,jenkins,linux,bash,python&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <!-- GitHub - animated via techstack-generator ✅ -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" title="GitHub Actions" />
+  &nbsp;&nbsp;
+  <!-- Git - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" title="Git" />
+  &nbsp;&nbsp;
+  <!-- Jenkins - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" title="Jenkins" />
+  &nbsp;&nbsp;
+  <!-- Linux - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" title="Linux" />
+  &nbsp;&nbsp;
+  <!-- Python - animated via techstack-generator ✅ -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" title="Python" />
+  &nbsp;&nbsp;
+  <!-- Bash - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" title="Bash" />
 </p>
 
 ### 📊 Monitoring & Observability
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <!-- Prometheus - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" title="Prometheus" />
+  &nbsp;&nbsp;
+  <!-- Grafana - skill-icons ✅ -->
+  <img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" title="Grafana" />
 </p>
-
-<br/>
-
-<!-- ALL SKILLS ANIMATED SCROLL STRIP -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,docker,kubernetes,githubactions,jenkins,linux,bash,python,prometheus,grafana,git,vscode,powershell&perline=8&theme=dark" />
-</div>
 
 ---
 
@@ -82,11 +103,11 @@ motto       : "Automate first, manual never!"
 
 <div align="center">
 
-| 🏷️ Badge | 📜 Certification | 🔗 Status |
-|:--------:|-----------------|:---------:|
-| ☁️ | Microsoft Certified: Azure Administrator Associate (AZ-104) | ✅ Certified |
-| 🔒 | Microsoft Certified: Azure Security Engineer Associate (AZ-500) | ✅ Certified |
-| 🌐 | Microsoft Certified: Azure Network Engineer Associate (AZ-700) | ✅ Certified |
+| 🏷️ Badge | 📜 Certification | Status |
+|:--------:|-----------------|:------:|
+| ☁️ | Microsoft Certified: Azure Administrator Associate (AZ-104) | ✅ |
+| 🔒 | Microsoft Certified: Azure Security Engineer Associate (AZ-500) | ✅ |
+| 🌐 | Microsoft Certified: Azure Network Engineer Associate (AZ-700) | ✅ |
 
 </div>
 
@@ -111,64 +132,16 @@ motto       : "Automate first, manual never!"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ketulnpatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulnpatel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ketulnpatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ketulnpatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ketulnpatel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ketulnpatel&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ketulnpatel&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketulnpatel/ketulnpatel/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketulnpatel/ketulnpatel/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ketulnpatel/ketulnpatel/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> ⚡ To activate the snake animation, add this GitHub Actions workflow to your profile repo:
-> `.github/workflows/snake.yml`
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ketulnpatel
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-<!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0078D4&height=120&section=footer&animation=fadeIn" />
